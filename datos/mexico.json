@@ -1,0 +1,1885 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.65,30.42 ]
+    },
+    "properties": {
+    "city":"Nacozari de García"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.22,27.95 ]
+    },
+    "properties": {
+    "city":"Nueva Rosita"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.8496,31.0241 ]
+    },
+    "properties": {
+    "city":"San Felipe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.58,22.7704 ]
+    },
+    "properties": {
+    "city":"Zacatecas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.5,20.67 ]
+    },
+    "properties": {
+    "city":"Irapuato"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.0093,30.7641 ]
+    },
+    "properties": {
+    "city":"Vicente Guerrero"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.95,30.4837 ]
+    },
+    "properties": {
+    "city":"San Quintín"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.3,18.5 ]
+    },
+    "properties": {
+    "city":"Chetumal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.93,27.58 ]
+    },
+    "properties": {
+    "city":"Esperanza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.0201,20.9304 ]
+    },
+    "properties": {
+    "city":"Izamal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.53,20.4004 ]
+    },
+    "properties": {
+    "city":"Ticul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.9,18.0 ]
+    },
+    "properties": {
+    "city":"Villahermosa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.42,23.2211 ]
+    },
+    "properties": {
+    "city":"Mazatlán"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.13,23.72 ]
+    },
+    "properties": {
+    "city":"Ciudad Victoria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.48,32.65 ]
+    },
+    "properties": {
+    "city":"Mexicali"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.2904,21.8795 ]
+    },
+    "properties": {
+    "city":"Aguascalientes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.085,28.645 ]
+    },
+    "properties": {
+    "city":"Chihuahua"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.28,21.0204 ]
+    },
+    "properties": {
+    "city":"Guanajuato"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.5,17.55 ]
+    },
+    "properties": {
+    "city":"Chilpancingo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.73,20.1704 ]
+    },
+    "properties": {
+    "city":"Pachuca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.33,20.67 ]
+    },
+    "properties": {
+    "city":"Guadalajara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.24,18.9211 ]
+    },
+    "properties": {
+    "city":"Cuernavaca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.33,25.67 ]
+    },
+    "properties": {
+    "city":"Monterrey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.2,17.9587 ]
+    },
+    "properties": {
+    "city":"Lázaro Cárdenas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6,16.33 ]
+    },
+    "properties": {
+    "city":"Miahuatlán"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.4,16.917 ]
+    },
+    "properties": {
+    "city":"Mitla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2,20.6704 ]
+    },
+    "properties": {
+    "city":"Valladolid"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.66,25.04 ]
+    },
+    "properties": {
+    "city":"Ciudad Constitución"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.23,23.2 ]
+    },
+    "properties": {
+    "city":"Villa Unión"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.37,24.3305 ]
+    },
+    "properties": {
+    "city":"Eldorado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.28,20.2 ]
+    },
+    "properties": {
+    "city":"Tekax"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.84,25.19 ]
+    },
+    "properties": {
+    "city":"Montemorelos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.92,19.53 ]
+    },
+    "properties": {
+    "city":"Xalapa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36,19.8204 ]
+    },
+    "properties": {
+    "city":"Teziutlán"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.28,21.1 ]
+    },
+    "properties": {
+    "city":"Motul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.6166,20.9666 ]
+    },
+    "properties": {
+    "city":"Mérida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.17,27.9904 ]
+    },
+    "properties": {
+    "city":"Guerrero Negro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.005,25.42 ]
+    },
+    "properties": {
+    "city":"Saltillo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1666,28.9337 ]
+    },
+    "properties": {
+    "city":"Punta Prieta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.2,16.1671 ]
+    },
+    "properties": {
+    "city":"Salina Cruz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.67,24.0311 ]
+    },
+    "properties": {
+    "city":"Durango"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.05,18.2 ]
+    },
+    "properties": {
+    "city":"Acatlan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.88,21.5054 ]
+    },
+    "properties": {
+    "city":"Tepic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.46,22.4004 ]
+    },
+    "properties": {
+    "city":"Tecuala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.22,16.9004 ]
+    },
+    "properties": {
+    "city":"Ayutla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.79,17.8104 ]
+    },
+    "properties": {
+    "city":"Huajuapan de León"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.47,15.7304 ]
+    },
+    "properties": {
+    "city":"Pochutla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.72,19.23 ]
+    },
+    "properties": {
+    "city":"Colima"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.37,19.77 ]
+    },
+    "properties": {
+    "city":"Autlan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.15,18.7804 ]
+    },
+    "properties": {
+    "city":"Coalcoman"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.35,19.08 ]
+    },
+    "properties": {
+    "city":"Apatzingán"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.08,20.48 ]
+    },
+    "properties": {
+    "city":"Halachó"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.92,20.13 ]
+    },
+    "properties": {
+    "city":"Peto"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.34,24.8304 ]
+    },
+    "properties": {
+    "city":"Papasquiaro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.0659,15.8592 ]
+    },
+    "properties": {
+    "city":"Puerto Escondido"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.9541,29.0989 ]
+    },
+    "properties": {
+    "city":"Hermosillo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.02,16.43 ]
+    },
+    "properties": {
+    "city":"Juchitan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.0,22.17 ]
+    },
+    "properties": {
+    "city":"San Luis Potosí"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.38,24.83 ]
+    },
+    "properties": {
+    "city":"Culiacán"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.07,19.4204 ]
+    },
+    "properties": {
+    "city":"Uruapan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.23,16.33 ]
+    },
+    "properties": {
+    "city":"Tehuantepec"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.2,20.5704 ]
+    },
+    "properties": {
+    "city":"Salamanca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.131,19.4424 ]
+    },
+    "properties": {
+    "city":"Mexico City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.28,19.9804 ]
+    },
+    "properties": {
+    "city":"Zamora"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.68,17.2704 ]
+    },
+    "properties": {
+    "city":"Tlaxiaco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.27,17.5204 ]
+    },
+    "properties": {
+    "city":"Petatlán"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.9,23.9204 ]
+    },
+    "properties": {
+    "city":"La Cruz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.85,28.33 ]
+    },
+    "properties": {
+    "city":"Allende"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.563,31.3223 ]
+    },
+    "properties": {
+    "city":"Agua Prieta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.5317,28.7076 ]
+    },
+    "properties": {
+    "city":"Piedras Negras"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.3,26.08 ]
+    },
+    "properties": {
+    "city":"Reynosa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.41,29.5404 ]
+    },
+    "properties": {
+    "city":"Ojinaga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.32,24.14 ]
+    },
+    "properties": {
+    "city":"La Paz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.27,14.9 ]
+    },
+    "properties": {
+    "city":"Tapachula"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.63,15.33 ]
+    },
+    "properties": {
+    "city":"Escuintla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.45,18.9 ]
+    },
+    "properties": {
+    "city":"Atlixco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.13,18.85 ]
+    },
+    "properties": {
+    "city":"Orizaba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.62,18.5704 ]
+    },
+    "properties": {
+    "city":"Taxco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.54,18.37 ]
+    },
+    "properties": {
+    "city":"Iguala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.9045,22.8928 ]
+    },
+    "properties": {
+    "city":"Cabo San Lucas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.88,22.35 ]
+    },
+    "properties": {
+    "city":"Villanueva"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.68,17.25 ]
+    },
+    "properties": {
+    "city":"Tecpan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.43,17.2 ]
+    },
+    "properties": {
+    "city":"Atoyac"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.74,17.94 ]
+    },
+    "properties": {
+    "city":"Jaltipan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.56,20.2804 ]
+    },
+    "properties": {
+    "city":"La Barca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.38,20.63 ]
+    },
+    "properties": {
+    "city":"Querétaro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.7,21.15 ]
+    },
+    "properties": {
+    "city":"León"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.22,15.6904 ]
+    },
+    "properties": {
+    "city":"Pijijiapan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.5,19.83 ]
+    },
+    "properties": {
+    "city":"Campeche"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.67,19.3304 ]
+    },
+    "properties": {
+    "city":"Toluca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.23,19.32 ]
+    },
+    "properties": {
+    "city":"Tlaxcala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.6699,17.0827 ]
+    },
+    "properties": {
+    "city":"Oaxaca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.2,19.05 ]
+    },
+    "properties": {
+    "city":"Puebla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.15,16.75 ]
+    },
+    "properties": {
+    "city":"Tuxtla Gutiérrez"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.93,21.3704 ]
+    },
+    "properties": {
+    "city":"Lagos de Moreno"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.6666,21.2833 ]
+    },
+    "properties": {
+    "city":"Progreso"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.41,20.9604 ]
+    },
+    "properties": {
+    "city":"Tuxpam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.53,17.8 ]
+    },
+    "properties": {
+    "city":"Balancán"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.15,21.1304 ]
+    },
+    "properties": {
+    "city":"Tizimín"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.0,25.79 ]
+    },
+    "properties": {
+    "city":"Los Mochis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.9162,24.636 ]
+    },
+    "properties": {
+    "city":"Altata"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.4546,27.0819 ]
+    },
+    "properties": {
+    "city":"Navajoa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.82,26.8004 ]
+    },
+    "properties": {
+    "city":"Santa Barbara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.57,19.68 ]
+    },
+    "properties": {
+    "city":"Ciudad Hidalgo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.1799,25.4204 ]
+    },
+    "properties": {
+    "city":"Parras"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6666,26.9334 ]
+    },
+    "properties": {
+    "city":"Hidalgo del Parral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5,28.2 ]
+    },
+    "properties": {
+    "city":"Delicias"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.62,31.87 ]
+    },
+    "properties": {
+    "city":"Ensenada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.57,24.8604 ]
+    },
+    "properties": {
+    "city":"Linares"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0,20.38 ]
+    },
+    "properties": {
+    "city":"San Juan del Río"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.53,17.9805 ]
+    },
+    "properties": {
+    "city":"Minatitlán"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.51,30.6104 ]
+    },
+    "properties": {
+    "city":"Villa Ahumada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.38,18.4504 ]
+    },
+    "properties": {
+    "city":"Tehuacan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.8245,18.6537 ]
+    },
+    "properties": {
+    "city":"Ciudad del Carmen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.1895,19.7334 ]
+    },
+    "properties": {
+    "city":"Morelia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8,22.8504 ]
+    },
+    "properties": {
+    "city":"Escuinapa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.03,19.41 ]
+    },
+    "properties": {
+    "city":"Nezahualcoyotl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.5,25.5701 ]
+    },
+    "properties": {
+    "city":"Gómez Palacio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.23,18.4 ]
+    },
+    "properties": {
+    "city":"Paraíso"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.65,18.5804 ]
+    },
+    "properties": {
+    "city":"Frontera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.43,17.4804 ]
+    },
+    "properties": {
+    "city":"Tenosique"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.88,18.9204 ]
+    },
+    "properties": {
+    "city":"Tecoman"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.07,22.9204 ]
+    },
+    "properties": {
+    "city":"Aldama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.3517,26.0133 ]
+    },
+    "properties": {
+    "city":"Loreto"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.2834,27.3171 ]
+    },
+    "properties": {
+    "city":"Santa Rosalía"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.62,26.4204 ]
+    },
+    "properties": {
+    "city":"El Fuerte"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.47,25.5705 ]
+    },
+    "properties": {
+    "city":"Guasave"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.3231,19.0496 ]
+    },
+    "properties": {
+    "city":"Manzanillo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.8,20.53 ]
+    },
+    "properties": {
+    "city":"Celaya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.9827,25.7592 ]
+    },
+    "properties": {
+    "city":"San Pedro de las Colonias"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.42,26.9 ]
+    },
+    "properties": {
+    "city":"Monclova"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.42,25.5701 ]
+    },
+    "properties": {
+    "city":"Torreón"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.945,31.305 ]
+    },
+    "properties": {
+    "city":"Nogales"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.98,21.93 ]
+    },
+    "properties": {
+    "city":"Rio Verde"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.75,21.9804 ]
+    },
+    "properties": {
+    "city":"Tamuín"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.78,21.2704 ]
+    },
+    "properties": {
+    "city":"Tamazunchale"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.02,21.98 ]
+    },
+    "properties": {
+    "city":"Ciudad Valles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.67,22.0 ]
+    },
+    "properties": {
+    "city":"Cardenas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.09,25.4704 ]
+    },
+    "properties": {
+    "city":"Guamúchil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.08,32.5 ]
+    },
+    "properties": {
+    "city":"Tijuana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.95,20.51 ]
+    },
+    "properties": {
+    "city":"Cozumel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.7115,21.2084 ]
+    },
+    "properties": {
+    "city":"Isla Mujeres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.83,21.17 ]
+    },
+    "properties": {
+    "city":"Cancún"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.05,19.5804 ]
+    },
+    "properties": {
+    "city":"Felipe Carrillo Puerto"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.72,19.3504 ]
+    },
+    "properties": {
+    "city":"Champotón"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.7,24.8704 ]
+    },
+    "properties": {
+    "city":"Cuencame"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.78,24.52 ]
+    },
+    "properties": {
+    "city":"Canatlan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9,21.2304 ]
+    },
+    "properties": {
+    "city":"Compostela"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.22,21.82 ]
+    },
+    "properties": {
+    "city":"Santiago Ixcuintla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.27,21.9304 ]
+    },
+    "properties": {
+    "city":"Tuxpan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.65,23.6604 ]
+    },
+    "properties": {
+    "city":"Matehuala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.86,23.1704 ]
+    },
+    "properties": {
+    "city":"Fresnillo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.57,22.7704 ]
+    },
+    "properties": {
+    "city":"Valparaíso"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.18,26.51 ]
+    },
+    "properties": {
+    "city":"Sabinas Hidalgo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.98,31.1 ]
+    },
+    "properties": {
+    "city":"Ascensión"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.49,31.6904 ]
+    },
+    "properties": {
+    "city":"Ciudad Juárez"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.39,24.2904 ]
+    },
+    "properties": {
+    "city":"Juan Aldama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1642,30.7161 ]
+    },
+    "properties": {
+    "city":"Caborca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.05,30.6166 ]
+    },
+    "properties": {
+    "city":"Magdalena"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.1333,29.0171 ]
+    },
+    "properties": {
+    "city":"Mazatlán"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.245,20.6771 ]
+    },
+    "properties": {
+    "city":"Puerto Vallarta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.11,19.8104 ]
+    },
+    "properties": {
+    "city":"Zumpango"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.55,27.5 ]
+    },
+    "properties": {
+    "city":"Nuevo Laredo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.5,25.88 ]
+    },
+    "properties": {
+    "city":"Matamoros"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.16,24.8504 ]
+    },
+    "properties": {
+    "city":"San Fernando"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.8361,22.3189 ]
+    },
+    "properties": {
+    "city":"Ciudad Madero"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.87,22.3 ]
+    },
+    "properties": {
+    "city":"Tampico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.95,22.7334 ]
+    },
+    "properties": {
+    "city":"Ciudad Mante"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.72,23.0004 ]
+    },
+    "properties": {
+    "city":"Tula"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.46,19.7104 ]
+    },
+    "properties": {
+    "city":"Ciudad Guzman"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.1701,27.6904 ]
+    },
+    "properties": {
+    "city":"Ciudad Camargo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.8696,28.4257 ]
+    },
+    "properties": {
+    "city":"Cuauhtémoc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.9119,30.4185 ]
+    },
+    "properties": {
+    "city":"Nuevo Casas Grandes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.47,20.5504 ]
+    },
+    "properties": {
+    "city":"Poza Rica de Hidalgo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.42,16.6801 ]
+    },
+    "properties": {
+    "city":"Ometepec"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.65,18.3204 ]
+    },
+    "properties": {
+    "city":"Ciudad Altamirano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.63,26.8304 ]
+    },
+    "properties": {
+    "city":"Huatabampo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.925,27.4666 ]
+    },
+    "properties": {
+    "city":"Ciudad Obregon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.89,27.93 ]
+    },
+    "properties": {
+    "city":"Guaymas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.19,22.0604 ]
+    },
+    "properties": {
+    "city":"Pánuco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.3,30.9904 ]
+    },
+    "properties": {
+    "city":"Cananea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.916,16.85 ]
+    },
+    "properties": {
+    "city":"Acapulco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.6334,16.75 ]
+    },
+    "properties": {
+    "city":"San Cristobal de Las Casas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.16,19.1773 ]
+    },
+    "properties": {
+    "city":"Veracruz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.42,18.1204 ]
+    },
+    "properties": {
+    "city":"Coatzacoalcos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3,18.4704 ]
+    },
+    "properties": {
+    "city":"Santiago Tuxtla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.92,18.9204 ]
+    },
+    "properties": {
+    "city":"Córdoba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7834,20.2166 ]
+    },
+    "properties": {
+    "city":"Nautla"
+    }
+  }
+]
+}

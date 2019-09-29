@@ -1,0 +1,189 @@
+city,lat,lng
+Nacozari de García,30.42,-109.65
+Nueva Rosita,27.95,-101.22
+San Felipe,31.0241,-114.8496
+Zacatecas,22.7704,-102.58
+Irapuato,20.67,-101.5
+Vicente Guerrero,30.7641,-116.0093
+San Quintín,30.4837,-115.95
+Chetumal,18.5,-88.3
+Esperanza,27.58,-109.93
+Izamal,20.9304,-89.0201
+Ticul,20.4004,-89.53
+Villahermosa,18.0,-92.9
+Mazatlán,23.2211,-106.42
+Ciudad Victoria,23.72,-99.13
+Mexicali,32.65,-115.48
+Aguascalientes,21.8795,-102.2904
+Chihuahua,28.645,-106.085
+Guanajuato,21.0204,-101.28
+Chilpancingo,17.55,-99.5
+Pachuca,20.1704,-98.73
+Guadalajara,20.67,-103.33
+Cuernavaca,18.9211,-99.24
+Monterrey,25.67,-100.33
+Lázaro Cárdenas,17.9587,-102.2
+Miahuatlán,16.33,-96.6
+Mitla,16.917,-96.4
+Valladolid,20.6704,-88.2
+Ciudad Constitución,25.04,-111.66
+Villa Unión,23.2,-106.23
+Eldorado,24.3305,-107.37
+Tekax,20.2,-89.28
+Montemorelos,25.19,-99.84
+Xalapa,19.53,-96.92
+Teziutlán,19.8204,-97.36
+Motul,21.1,-89.28
+Mérida,20.9666,-89.6166
+Guerrero Negro,27.9904,-114.17
+Saltillo,25.42,-101.005
+Punta Prieta,28.9337,-114.1666
+Salina Cruz,16.1671,-95.2
+Durango,24.0311,-104.67
+Acatlan,18.2,-98.05
+Tepic,21.5054,-104.88
+Tecuala,22.4004,-105.46
+Ayutla,16.9004,-99.22
+Huajuapan de León,17.8104,-97.79
+Pochutla,15.7304,-96.47
+Colima,19.23,-103.72
+Autlan,19.77,-104.37
+Coalcoman,18.7804,-103.15
+Apatzingán,19.08,-102.35
+Halachó,20.48,-90.08
+Peto,20.13,-88.92
+Papasquiaro,24.8304,-105.34
+Puerto Escondido,15.8592,-97.0659
+Hermosillo,29.0989,-110.9541
+Juchitan,16.43,-95.02
+San Luis Potosí,22.17,-101.0
+Culiacán,24.83,-107.38
+Uruapan,19.4204,-102.07
+Tehuantepec,16.33,-95.23
+Salamanca,20.5704,-101.2
+Mexico City,19.4424,-99.131
+Zamora,19.9804,-102.28
+Tlaxiaco,17.2704,-97.68
+Petatlán,17.5204,-101.27
+La Cruz,23.9204,-106.9
+Allende,28.33,-100.85
+Agua Prieta,31.3223,-109.563
+Piedras Negras,28.7076,-100.5317
+Reynosa,26.08,-98.3
+Ojinaga,29.5404,-104.41
+La Paz,24.14,-110.32
+Tapachula,14.9,-92.27
+Escuintla,15.33,-92.63
+Atlixco,18.9,-98.45
+Orizaba,18.85,-97.13
+Taxco,18.5704,-99.62
+Iguala,18.37,-99.54
+Cabo San Lucas,22.8928,-109.9045
+Villanueva,22.35,-102.88
+Tecpan,17.25,-100.68
+Atoyac,17.2,-100.43
+Jaltipan,17.94,-94.74
+La Barca,20.2804,-102.56
+Querétaro,20.63,-100.38
+León,21.15,-101.7
+Pijijiapan,15.6904,-93.22
+Campeche,19.83,-90.5
+Toluca,19.3304,-99.67
+Tlaxcala,19.32,-98.23
+Oaxaca,17.0827,-96.6699
+Puebla,19.05,-98.2
+Tuxtla Gutiérrez,16.75,-93.15
+Lagos de Moreno,21.3704,-101.93
+Progreso,21.2833,-89.6666
+Tuxpam,20.9604,-97.41
+Balancán,17.8,-91.53
+Tizimín,21.1304,-88.15
+Los Mochis,25.79,-109.0
+Altata,24.636,-107.9162
+Navajoa,27.0819,-109.4546
+Santa Barbara,26.8004,-105.82
+Ciudad Hidalgo,19.68,-100.57
+Parras,25.4204,-102.1799
+Hidalgo del Parral,26.9334,-105.6666
+Delicias,28.2,-105.5
+Ensenada,31.87,-116.62
+Linares,24.8604,-99.57
+San Juan del Río,20.38,-100.0
+Minatitlán,17.9805,-94.53
+Villa Ahumada,30.6104,-106.51
+Tehuacan,18.4504,-97.38
+Ciudad del Carmen,18.6537,-91.8245
+Morelia,19.7334,-101.1895
+Escuinapa,22.8504,-105.8
+Nezahualcoyotl,19.41,-99.03
+Gómez Palacio,25.5701,-103.5
+Paraíso,18.4,-93.23
+Frontera,18.5804,-92.65
+Tenosique,17.4804,-91.43
+Tecoman,18.9204,-103.88
+Aldama,22.9204,-98.07
+Loreto,26.0133,-111.3517
+Santa Rosalía,27.3171,-112.2834
+El Fuerte,26.4204,-108.62
+Guasave,25.5705,-108.47
+Manzanillo,19.0496,-104.3231
+Celaya,20.53,-100.8
+San Pedro de las Colonias,25.7592,-102.9827
+Monclova,26.9,-101.42
+Torreón,25.5701,-103.42
+Nogales,31.305,-110.945
+Rio Verde,21.93,-99.98
+Tamuín,21.9804,-98.75
+Tamazunchale,21.2704,-98.78
+Ciudad Valles,21.98,-99.02
+Cardenas,22.0,-99.67
+Guamúchil,25.4704,-108.09
+Tijuana,32.5,-117.08
+Cozumel,20.51,-86.95
+Isla Mujeres,21.2084,-86.7115
+Cancún,21.17,-86.83
+Felipe Carrillo Puerto,19.5804,-88.05
+Champotón,19.3504,-90.72
+Cuencame,24.8704,-103.7
+Canatlan,24.52,-104.78
+Compostela,21.2304,-104.9
+Santiago Ixcuintla,21.82,-105.22
+Tuxpan,21.9304,-105.27
+Matehuala,23.6604,-100.65
+Fresnillo,23.1704,-102.86
+Valparaíso,22.7704,-103.57
+Sabinas Hidalgo,26.51,-100.18
+Ascensión,31.1,-107.98
+Ciudad Juárez,31.6904,-106.49
+Juan Aldama,24.2904,-103.39
+Caborca,30.7161,-112.1642
+Magdalena,30.6166,-111.05
+Mazatlán,29.0171,-110.1333
+Puerto Vallarta,20.6771,-105.245
+Zumpango,19.8104,-99.11
+Nuevo Laredo,27.5,-99.55
+Matamoros,25.88,-97.5
+San Fernando,24.8504,-98.16
+Ciudad Madero,22.3189,-97.8361
+Tampico,22.3,-97.87
+Ciudad Mante,22.7334,-98.95
+Tula,23.0004,-99.72
+Ciudad Guzman,19.7104,-103.46
+Ciudad Camargo,27.6904,-105.1701
+Cuauhtémoc,28.4257,-106.8696
+Nuevo Casas Grandes,30.4185,-107.9119
+Poza Rica de Hidalgo,20.5504,-97.47
+Ometepec,16.6801,-98.42
+Ciudad Altamirano,18.3204,-100.65
+Huatabampo,26.8304,-109.63
+Ciudad Obregon,27.4666,-109.925
+Guaymas,27.93,-110.89
+Pánuco,22.0604,-98.19
+Cananea,30.9904,-110.3
+Acapulco,16.85,-99.916
+San Cristobal de Las Casas,16.75,-92.6334
+Veracruz,19.1773,-96.16
+Coatzacoalcos,18.1204,-94.42
+Santiago Tuxtla,18.4704,-95.3
+Córdoba,18.9204,-96.92
+Nautla,20.2166,-96.7834
