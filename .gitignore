@@ -2,3 +2,4 @@
 datos/train.csv
 datos/mapa
 tmp
+.ipynb_checkpoints
