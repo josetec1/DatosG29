@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 datos/train.csv
 datos/mapa
+datos/exchange.csv
 tmp
 .ipynb_checkpoints
